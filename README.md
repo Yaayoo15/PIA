@@ -14,6 +14,7 @@ Se incluyen secciones que van desde el manejo de APIs hasta la Automatización d
 -PowerShell
 
 -BASH
+
 A continuación se describe brevemente el contenido y objetivos de cada sección del repositorio.
 
 ## Secciones
