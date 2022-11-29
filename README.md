@@ -76,6 +76,8 @@ En la sección de Envío de Correos se incluye un script de Python, para facilit
 [https://github.com/Yaayoo15/PIA/tree/main/Envío%20de%20correos](https://github.com/Yaayoo15/PIA/tree/main/Env%C3%ADo%20de%20correos)
 
 ## Automatización de Tareas
+Como último apartado de este repositorio, tenemos Automatización de Tareas en el cual como su nombre lo indica se establecerán tareas y/o procesos de manera automática y que sean ejecutadas en el momento en que sea indicado.
 
+Se utilizaron PowerShell y Python en conjunto para poder trabajar en este apartado de trabajo de tareas.
 - Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Automatización%20de%20Tareas](https://github.com/Yaayoo15/PIA/tree/main/Automatizaci%C3%B3n%20de%20Tareas)
