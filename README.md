@@ -20,41 +20,62 @@ A continuación se describe brevemente el contenido y objetivos de cada sección
 ## Secciones
 
 ## Manejo de APIs
-
+En esta sección encontraremos diferentes scripts, los cuales están enfocados en el consumo de APIs por medio de Python para poder obtener cierta información de estas mismas.
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Manejo%20de%20APIs](https://github.com/Yaayoo15/PIA/tree/main/Manejo%20de%20APIs)
 
 ## Scripting en PowerShell
+En la seccion de Scripting en PowerShell encontraremos tres scripts, los cuales nos servirán para poder hacer **escaneo de puertos** activos en nuestro dispositivo utilizando precisamente dicho lenguaje de programación, **PowerShell**
 
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Scripting%20en%20PowerShell](https://github.com/Yaayoo15/PIA/tree/main/Scripting%20en%20PowerShell)
 
-## Scripting en Bash
+## Scripting en BASH
+Por medio de la utilización de BASH, tenemos seis scripts, los cuales realizan funciones basicas para poder aprovechar los conocimientos básicos de este mismo. 
+Partiendo desde un **mensaje** **de bienvenida**, hasta un **escaneo** completo de **puertos** y **red**. 
 
+ - Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Scripting%20en%20Bash](https://github.com/Yaayoo15/PIA/tree/main/Scripting%20en%20Bash)
 
 ## Encoding & Decoding
+Para esta sección contamos con tres scripts, destinados a la codificación y decodificación de mensajes e inclusive de imágenes que sean obtenidas desde alguna URL o desde un archivo intenro de nuestro equipo.
+Lo anterior es logrado haciendo uso de dos lenguajes de programación (Python y PowerShell).
 
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Encoding%20%26%20Decoding](https://github.com/Yaayoo15/PIA/tree/main/Encoding%20%26%20Decoding)
 
 ## Webscraping
+En dicha sección contamos con dos scripts de Python, los cuales por medio de diferentes librerías como son:
 
+ - Request
+ - BeautifulSoup
+
+Podemos realizar un Webscraping completo que nos arroje la información que puede ser necesitada para la ocasión en que se aplica la(s) herramienta(s).
+
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Webscrapping](https://github.com/Yaayoo15/PIA/tree/main/Webscrapping)
 
 ## Nmap
 
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Nmap](https://github.com/Yaayoo15/PIA/tree/main/Nmap)
 
 ## FTP
 
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/FTP](https://github.com/Yaayoo15/PIA/tree/main/FTP)
 
 ## Escáner de Puertos
 
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Escaner%20de%20puertos](https://github.com/Yaayoo15/PIA/tree/main/Escaner%20de%20puertos)
 
-## Envió de Correos
+## Envío de Correos
 
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Envío%20de%20correos](https://github.com/Yaayoo15/PIA/tree/main/Env%C3%ADo%20de%20correos)
 
 ## Automatización de Tareas
 
+- Link a la sección
 [https://github.com/Yaayoo15/PIA/tree/main/Automatización%20de%20Tareas](https://github.com/Yaayoo15/PIA/tree/main/Automatizaci%C3%B3n%20de%20Tareas)
