@@ -8,8 +8,11 @@
 
 Este repositorio tiene como objetivo la recopilación de los scripts que fueron utilizados durante el curso de Laboratorio de Programación para Ciberseguridad.
 Se incluyen secciones que van desde el manejo de APIs hasta la Automatización de Tareas, utilizando primordialmente tres lenguajes de programación, los cuales son:
+
 -Python
+
 -PowerShell
+
 -BASH
 A continuación se describe brevemente el contenido y objetivos de cada sección del repositorio.
 
