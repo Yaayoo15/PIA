@@ -11,8 +11,7 @@ from ftplib import FTP
 ftp = FTP('192.168.162.133')
 
 #Ingresamos con las credenciales preestablecidas en la creación del usuario;
-# 'yayoo' en mi caso
-ftp.login('yayoo','2006659')
+ftp.login('XXXXX','XXXXXXX')
 
 #A continuación nos cambiaremos al directorio upload (/ftp/upload) 
 #para poder insertar aquí el archivo ADVERTENCIA.txt
