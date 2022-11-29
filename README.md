@@ -4,7 +4,7 @@
 
 #***Fecha***: 29/11/22
 
-## Descripción General del Repositorio
+# Descripción General del Repositorio
 
 Este repositorio tiene como objetivo la recopilación de los scripts que fueron utilizados durante el curso de Laboratorio de Programación para Ciberseguridad.
 Se incluyen secciones que van desde el manejo de APIs hasta la Automatización de Tareas, utilizando primordialmente tres lenguajes de programación, los cuales son:
@@ -17,7 +17,7 @@ Se incluyen secciones que van desde el manejo de APIs hasta la Automatización d
 
 A continuación se describe brevemente el contenido y objetivos de cada sección del repositorio.
 
-## Secciones
+# Secciones
 
 ## Manejo de APIs
 En esta sección encontraremos diferentes scripts, los cuales están enfocados en el consumo de APIs por medio de Python para poder obtener cierta información de estas mismas.
