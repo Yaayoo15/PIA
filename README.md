@@ -15,7 +15,7 @@ Se incluyen secciones que van desde el manejo de APIs hasta la Automatización d
 
 -BASH
 
-A continuación se describe brevemente el contenido y objetivos de cada sección del repositorio.
+A continuación se describe brevemente el contenido que se puede encontrar dentro de cada sección del repositorio.
 
 # Secciones
 
