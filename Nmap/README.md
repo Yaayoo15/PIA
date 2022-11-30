@@ -3,6 +3,7 @@
 Esta sección cuenta únicamente con un script ejecutable en Bash (.sh), el cual se describe a continuación:
 
 [automap.sh](https://github.com/Yaayoo15/PIA/blob/main/Nmap/automap.sh)
+
 Se trata de un script que es un menú de 5 opciones, las cuales son:
 
 "1. **Escaneo de red**": nmap realiza un *escaneo en la subred* que le sea proporcionada.
