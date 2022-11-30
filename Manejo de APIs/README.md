@@ -4,7 +4,7 @@ Esta sección contiene tres scripts de origen Python (.py), los cuales son:
 
   [Pokemon1.py](https://github.com/Yaayoo15/PIA/blob/main/Manejo%20de%20APIs/Pokemon1.py)
   
-  Script enfocado a realizar peticiones al API de pokemon, en donde se buscará su endpoint pokemon-form para poder obtener la información que deseamos encontrar.
+  Script enfocado a realizar peticiones al API de pokemon, en donde se buscará su endpoint pokemon-form para poder obtener la información que deseamos encontrar del mismo, para al final de la ejecución, imprimir el resultado.
     
   [ Pokemon2.    py](https://github.com/Yaayoo15/PIA/blob/main/Manejo%20de%20APIs/Pokemon2.py)
   
