@@ -26,7 +26,8 @@ Script que nos arroja un mensaje predeterminado con el valor que le sea ingresad
 [Superscan.sh](https://github.com/Yaayoo15/PIA/blob/main/Scripting%20en%20Bash/Superscan.sh)
 
 Por último, pero no menos importante se tiene que este script nos desplegará un menú en el cual se podrán elegir 4 opciones de ejecución, las cuales son los scripts de netdiscover, welcome y portscanv1. Al seleccionar una de las cuatro opciones, comenzará la ejecución del código.
-Nota: la cuarta opción nos detendrá la ejecución.
+
+**Nota**: la cuarta opción nos detendrá la ejecución.
 
 ## Objetivo
 Por medio de esta práctica se tiene como finalidad **fortalecer conocimientos** y practicas en **Bash**, además de considerar aprender a manejar puntos como los son:
