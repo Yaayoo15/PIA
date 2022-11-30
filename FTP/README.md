@@ -3,6 +3,7 @@
 Este apartado cuenta tan solo con un script de origen Python, el cual está enfocado en la comunicación FTP, a continuación se describe:
 
 [FTP.py](https://github.com/Yaayoo15/PIA/blob/main/FTP/FTP.py)
+
 La funcionalidad de este script es simple, pues lo primero que hace es conectarse al servidor utilizando la dirección IP de nuestro dispositivo.
 
 Posteriormente entrará utilizando las credenciales que sean definidas por el usuario. 
