@@ -4,7 +4,7 @@ Esta sección esta compuesta por tres scripts de tipo .ps1 (**PowerShell**), los
 
 [scan_alivev1.ps1](https://github.com/Yaayoo15/PIA/blob/main/Scripting%20en%20PowerShell/scan_alivev1.ps1) 
 
-Script enfocado en el **escaneo de equipos activos** en nuestra subred, la cual es obtenida durante la ejecución del mismo. 
+Script enfocado en el **escaneo de equipos activos** en nuestra subred, donde nuestra subred es obtenida durante la ejecución del mismo, despues se validará los host activos en dicha subred, y tambien validará la conexión contra la IP. 
 
 [scan_alivev2.ps1](https://github.com/Yaayoo15/PIA/blob/main/Scripting%20en%20PowerShell/scan_alivev2.ps1)
 
