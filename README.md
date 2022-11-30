@@ -2,7 +2,7 @@
 
 #***Matricula***: 2006659
 
-#***Fecha***: 29/11/22
+#***Fecha***: 29 de noviembre de 2022
 
 # Descripción General del Repositorio
 
