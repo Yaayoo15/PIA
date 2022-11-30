@@ -5,17 +5,21 @@ Todos los scripts de esta sección son creados utilizando Python para realizar e
 ***Nota**: Los primeros tres scripts utilizan la librería socket, y el último utiliza nmap.*
 
 [scan_portv1.py](https://github.com/Yaayoo15/PIA/blob/main/Escaner%20de%20puertos/scan_portv1.py)
+
 Este script nos mostrará los puertos que se encuentren abiertos dentro de la dirección IP brindada y del rango de puertos establecido previo a su ejecución.
 
 [scan_portv2.py](https://github.com/Yaayoo15/PIA/blob/main/Escaner%20de%20puertos/scan_portv2.py)
+
 Este script hará un intento de conexión con los puertos que han sido definidos en la elaboracion del mismo a lo largo de la red 192.168.0.*, en este caso son los puertos 21, 22, 25, 80.
 
 [scan_portv3.py](https://github.com/Yaayoo15/PIA/blob/main/Escaner%20de%20puertos/scan_portv3.py)
+
 Este script tiene la misma funcionalidad que scan_portv1.py, sin embargo, cuenta con la única diferencia en que esté utilizará múltiples hilos durante su ejecución (lo logra haciendo uso de la librería threading de Python).
 
 ***Nota**: se ejecuta de la misma manera que scan_portv1.py*
 
 [MenuEscaneos.py](https://github.com/Yaayoo15/PIA/blob/main/Escaner%20de%20puertos/MenuEscaneos.py)
+
 Este script nos presenta un menú de 4 opciones las cuales son:
 1. **Escaneo UDP:** realizará un escaneo de tipo UDP  sobre la IP proporcionada para mostrar el estatus de los puertos encontrados, utilizando nmap como herramienta principal.
 
